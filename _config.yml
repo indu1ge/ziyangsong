@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Welcome"
+title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Zhu Ruijie"
 description              : &description "Master at USTC"
@@ -82,10 +82,10 @@ analytics:
 author:
   name             : "Zhu Ruijie"
   avatar           : "profile.png"
-  bio              : "Master at USTC"
-  location         : "Anhui, Hefei"
+  bio              : "Postgraduate at USTC"
+  location         : "Anhui, China"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -94,7 +94,7 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : “https://www.facebook.com/profile.php?id=100040304211690”
   foursquare       :
   github           : "RuijieZhu94"
   google_plus      :
@@ -103,13 +103,13 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : #"replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
