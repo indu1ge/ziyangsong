@@ -25,7 +25,7 @@ Awards
 ------
 - Wuyajun Scholarship of NWPU, 2019
 - Wuyajun Scholarship of NWPU, 2020
-- CATIC Scholarship of NWPU(The highest honor for graduate, <1%), 2021
+- CATIC Scholarship of NWPU(The highest honor for graduates, <1%), 2021
 - Outstanding Graduate of NWPU, 2022
 
 <!-- Publications
