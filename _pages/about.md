@@ -17,8 +17,9 @@ My research interest includes 3D reconstruction, SLAM and computer vision.
 Experience 
 ------
 - Sept.2018 - July.2022, Undergradute, Honors College, NWPU
-- July.2019 - Aug.2019, Visiting Student, Oxford
+- July.2019 - Aug.2019, Visiting Student, University of Oxford
 - July.2020 - Sept.2020, Software Development Intern, Huawei
+- April.2021 - July.2021, Reinforcement Learining Online Intern, University of Cambridge 
 - Sept.2022 - Now, Postgraduate, USTC
 
 Awards
