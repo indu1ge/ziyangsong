@@ -40,8 +40,9 @@ Experience
 
 Awards
 ------
-- first class scholarship of USTC, 2019
+- First class scholarship of USTC, 2019
 - SCSE scholarship of USTC, 2020
 - Guomoruo Scholarship(The highest honor for graduates) of USTC, 2021
 - Outstanding Graduate of USTC, 2022
-- Outstanding Graduate of USTC, 2023
+- First class scholarship of USTC, 2022
+- First class scholarship of USTC, 2023
