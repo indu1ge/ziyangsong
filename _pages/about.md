@@ -25,11 +25,11 @@ Recent News
 Publications
 ------
 - 2023
-1. Ruijie Zhu, **Ziyang Song**, Li Liu, Jianfeng He, Tianzhu Zhang and Yongdong Zhang.  
-   **"HA-Bins: Hierarchical Adaptive Bins for Robust Monocular Depth Estimation across Multiple Datasets."**  
+1. **["HA-Bins: Hierarchical Adaptive Bins for Robust Monocular Depth Estimation across Multiple Datasets."]()**  
+   Ruijie Zhu, **Ziyang Song**, Li Liu, Jianfeng He, Tianzhu Zhang and Yongdong Zhang.  
    IEEE Transactions on Circuits and Systems for Video Technology(TCSVT).  
-2. Ruijie Zhu*, **Ziyang Song\***, Chuxin Wang, Jianfeng He, Tianzhu Zhang.  
-   **"EC-Depth: Exploring the consistency of self-supervised monocular depth estimation under challenging scenes[J]."**  
+2. **["EC-Depth: Exploring the consistency of self-supervised monocular depth estimation under challenging scenes[J]."](https://arxiv.org/abs/2310.08044)**  
+   Ruijie Zhu*, **Ziyang Song\***, Chuxin Wang, Jianfeng He, Tianzhu Zhang.  
    arXiv preprint. arXiv:2310.08044, 2023.  
 
 
