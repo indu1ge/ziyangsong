@@ -29,7 +29,7 @@ Publications
    **"HA-Bins: Hierarchical Adaptive Bins for Robust Monocular Depth Estimation across Multiple Datasets."**  
    IEEE Transactions on Circuits and Systems for Video Technology(TCSVT).  
 2. Ruijie Zhu*, **Ziyang Song\***, Chuxin Wang, Jianfeng He, Tianzhu Zhang.  
-   "EC-Depth: Exploring the consistency of self-supervised monocular depth estimation under challenging scenes[J]."  
+   **"EC-Depth: Exploring the consistency of self-supervised monocular depth estimation under challenging scenes[J]."**  
    arXiv preprint. arXiv:2310.08044, 2023.  
 
 
